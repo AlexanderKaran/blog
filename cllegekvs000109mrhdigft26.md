@@ -4,7 +4,7 @@ seoDescription: "When should you use the nullish coalescing operator or the or o
 datePublished: Thu Aug 17 2023 00:59:15 GMT+0000 (Coordinated Universal Time)
 cuid: cllegekvs000109mrhdigft26
 slug: nullish-coalescing-operator
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692233787776/fae536c4-4be1-4dc5-ad5c-b6a67b5bf3e8.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692234301828/08697b64-0b3b-4cce-954f-b54e329a108a.png
 tags: js, javascript, typescript
 
 ---
