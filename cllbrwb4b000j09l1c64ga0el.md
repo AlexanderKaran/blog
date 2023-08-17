@@ -1,5 +1,6 @@
 ---
 title: "New JavaScript Array Methods"
+seoDescription: "Let's look at array.at() to get the last item in an array and how to use findLast in JavaScript."
 datePublished: Tue Aug 15 2023 03:57:40 GMT+0000 (Coordinated Universal Time)
 cuid: cllbrwb4b000j09l1c64ga0el
 slug: new-javascript-array-methods
