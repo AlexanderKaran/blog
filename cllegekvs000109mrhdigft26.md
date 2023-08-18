@@ -47,3 +47,5 @@ console.log(volume) // 0
 ```
 
 The nullish coalescing operator is a great way to provide a default value when safely unwrapping or accessing values in JavaScript. Give it a try.
+
+Want to read more on the Nullish Coalescing Operator? My friend Mike put a deep dive [blog post](https://mikebifulco.com/posts/nullish-coalescing-javascript) on the operator that covers it in more detail and its usage in React, Deno and Node.
