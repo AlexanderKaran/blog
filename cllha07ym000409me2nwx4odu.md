@@ -4,7 +4,7 @@ seoDescription: "Need to search through an array in JavaScript but need to start
 datePublished: Sat Aug 19 2023 00:23:26 GMT+0000 (Coordinated Universal Time)
 cuid: cllha07ym000409me2nwx4odu
 slug: javascript-find-last
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692404276658/0096574a-8efb-4f9b-be57-53a3aacb172e.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692404924264/fe10a0cd-98af-40c5-89d3-0ee4151d19ca.png
 tags: js, javascript, typescript
 
 ---
