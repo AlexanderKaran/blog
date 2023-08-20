@@ -25,3 +25,5 @@ console.log(last) // undefined
 const lastNumber = numbers.at(-1)
 console.log(lastNumber) // 25
 ```
+
+With excellent browser support, nothing is stopping you from using it. Check the [**browser compatibility list**](https://caniuse.com/mdn-javascript_builtins_array_at) for more info.
