@@ -24,3 +24,5 @@ console.log(n) // 15
 const n = numbers.findLast(num => num > 10)
 console.log(n) // 25
 ```
+
+Other than IE, you can use `findLast` in all major browsers. Check the [**browser compatibility list**](https://caniuse.com/mdn-javascript_builtins_array_findlast) for more info.
