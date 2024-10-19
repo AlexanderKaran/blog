@@ -5,7 +5,7 @@ seoDescription: "Learn how `replace` and `replaceAll` functions differ, and disc
 datePublished: Sat Oct 19 2024 00:11:35 GMT+0000 (Coordinated Universal Time)
 cuid: cm2felpr3000108la5eo819mf
 slug: replace-vs-replace-all
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1729295816550/b33f0ce8-9648-49b8-a755-f36d89f4f901.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1729378972842/f1b3c4ea-5f7c-46ae-bdf8-f0fcf5a76858.png
 tags: javascript, nodejs, typescript
 
 ---
