@@ -19,7 +19,7 @@ const replaced = numbers.replace(".", "_")
 console.log(replaced) // '10_00.00.0000'
 ```
 
-Wait what? It only replaced the first instant, `replace` is a simple function and expects you to pass a regular expression if you want more complex results. We can pass an expression that makes it check for a global replacement like so:
+Wait what? It only replaced the first instant, `replace` is a simple function and expects you to pass a regular expression if you want more complex results. We can pass an expression that makes it run a global replacement like so:
 
 ```javascript
 const numbers = "10.00.00.0000"
