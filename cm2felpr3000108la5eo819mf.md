@@ -38,3 +38,16 @@ console.log(replacedAll) // '10_00_00_0000'
 ```
 
 The fantastic function `replaceAll` has full support across all browsers except IE; you can find the [full breakdown here](https://caniuse.com/?search=replaceAll).
+
+**Update 20/10/2024:**
+
+After posting on BlueSky, [Larry Williamson](https://bsky.app/profile/l422y.com) pointed out another method of replacing all occurrences in a string.
+
+```javascript
+const numbers = "10.00.00.0000"
+
+const splitReplace = numbers.split(".").join("_")
+console.log(splitReplace) // '10_00_00_0000'
+```
+
+The speed difference between them is negligible. You have to be parsing large strings before even getting close to a 0.01 millisecond difference in speed. Like all quick benchmarking using, [`performance.now`](http://performance.now)`()` take it with a pinch of salt. Personally, I will be reaching for `replaceAll` from now on.
